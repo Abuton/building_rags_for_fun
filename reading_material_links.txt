@@ -1,0 +1,3 @@
+https://python.langchain.com/docs/integrations/document_loaders/csv/
+Article - https://towardsdatascience.com/rag-how-to-talk-to-your-data-eaf5469b83b0
+Ollama - ollama.com
