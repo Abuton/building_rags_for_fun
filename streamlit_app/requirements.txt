@@ -1,0 +1,9 @@
+pandas 
+streamlit
+pyyaml
+langchain 
+torch==2.2.1 
+transformers==4.38.2 
+sentence-transformers 
+faiss-cpu
+langchain_community
